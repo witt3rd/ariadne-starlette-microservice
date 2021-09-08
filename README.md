@@ -1,4 +1,4 @@
-# Graphene3 Starlette Microservice Template
+# Ariadne Starlette Microservice Template
 
 ## Run
 
